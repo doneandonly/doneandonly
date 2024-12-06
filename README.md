@@ -7,7 +7,7 @@ React, Next.js를 사용해서 FE 서비스를 배포하고, 네이티브에서 
 새로운 환경에서 빠르게 적응하는 장점을 가지고 있고, 한번 머릿속에 떠오른 문제는 끝까지 해결하려고 합니다.
 그래도 해결하지 못한 과제는 팀원들과 공유하고 함께 이겨내려고 해요.
 
-🎨 Portfolio 
+🎨 <span font-weight="bold" font-size="22px">Portfolio 
 <ul>
   <li><a href="#">Notion Portfilio(Latest)</a></li>
   <li><a href="http://doneandonly.github.io/myportfolio">Portfolio Website</a></li> 
