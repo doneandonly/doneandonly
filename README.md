@@ -15,6 +15,19 @@ Portfolio WebSite (Made in 2021)
 이력서
 
 🛠 Tech Stacks
+<ul>Frontend Skills :
+  <li>Programming Language:  
+  <li>Framework:
+  <li>Bundler:  
+   <li>Style: 
+    <li>Want to Learn :  
+ <ul>
+
+  Communication Tools :    
+Design Tools : 
+Once I used :    
+
+
 Frontend Skills :
 
 Programming Language:  
