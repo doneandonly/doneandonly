@@ -16,12 +16,21 @@ Portfolio WebSite (Made in 2021)
 
 🛠 Tech Stacks
 <ul>Frontend Skills :
-  <li>Programming Language:  
+  <li>Frontend Skills :
+      <ul>
+        <li>dd</li>
+        <li>dd</li>
+        <li>dd</li>
+        <li></li>
+        <li></li>
+      </ul>
+  </li>
+    Programming Language:  
   <li>Framework:
   <li>Bundler:  
    <li>Style: 
     <li>Want to Learn :  
- <ul>
+    </ul>
 
   Communication Tools :    
 Design Tools : 
