@@ -68,8 +68,14 @@ React, Next.js를 사용해서 FE 서비스를 배포하고, 네이티브에서 
   <img src="https://camo.githubusercontent.com/a4bec6acac0346481d8de167d0cbecba0d9a8e1b0a9f823a084770edced1796d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/0a955b51e047c2ca1c11db41f2038c5bacda1086760b627625b3ac830eb59076/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f266c6f676f436f6c6f723d7768697465">
   </li>  
+</ul>
+  
+ 
 
-  <ul class="tree">
+<!--
+
+
+ <ul class="tree">
   <li>
     <span class="caret">🤷‍♂️ BaekJoon Stats:</span>
     <ul class="nested">
@@ -90,6 +96,7 @@ React, Next.js를 사용해서 FE 서비스를 배포하고, 네이티브에서 
   </li>
 </ul>
 
+
 ## 소개 
 - 주요 스킬셋: JavaScript, React, CSS, HTML
 
@@ -101,8 +108,6 @@ React, Next.js를 사용해서 FE 서비스를 배포하고, 네이티브에서 
 - 이메일: earththerapie@gmail.com
 
 
-
-<!--
 **doneandonly/doneandonly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
